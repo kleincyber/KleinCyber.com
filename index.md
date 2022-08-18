@@ -1,6 +1,7 @@
 #KleinCyber.com 
 
-Welcome
+Welcome to my site.
+
+This is for Kleincyber.com and will soon be populated with more info. Thanks!
 
 
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
